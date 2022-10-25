@@ -1,1 +1,4 @@
 int c=10;
+public static void main()
+this is java program
+it is used to develop java project
