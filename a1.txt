@@ -1,1 +1,3 @@
 int c=10;
+in b=20;
+int c= a+b;
