@@ -1,4 +1,9 @@
 int c=10;
+
+in b=20;
+int c= a+b;
+
 public static void main()
 this is java program
 it is used to develop java project
+
